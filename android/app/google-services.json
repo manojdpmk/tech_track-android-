@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858963384166",
+    "project_id": "techtrack-91546",
+    "storage_bucket": "techtrack-91546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858963384166:android:ab85bb7ca773eef5285aa7",
+        "android_client_info": {
+          "package_name": "com.example.techtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILuQYRD4FvgqRdM0Z4qpnvUQe3jBjh-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
